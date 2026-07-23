@@ -1,0 +1,6 @@
+minute_window,density,enemy_hp,enemy_dmg,design_role
+0-2min,low trickle,5,low,teach movement/kiting
+2-5min,steady stream,10-20,low-med,weapon leveling window
+5-10min,high density bursts,30-80,med,swarm event ~1min
+10-15min,elite + adds,300-1000,high,mini-boss marker
+30min,instant multi-spawn,9999,instakill,hard timer end
